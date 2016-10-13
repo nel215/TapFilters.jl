@@ -1,6 +1,6 @@
-module NTapFiltersTests
+module TapFiltersTests
 
-using NTapFilters, Base.Test
+using TapFilters, Base.Test
 
 @test size(dx) == (5,5)
 @test size(dy) == (5,5)

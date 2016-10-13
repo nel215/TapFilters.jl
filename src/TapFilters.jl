@@ -1,4 +1,4 @@
-module NTapFilters
+module TapFilters
 
 # 1nd order
 p = [0.037659  0.249153  0.426375  0.249153  0.037659]
